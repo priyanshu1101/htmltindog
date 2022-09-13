@@ -1,29 +1,25 @@
-🐶 TinDog
+# 🐶 TinDog
+
 Start up landing page for a fictional application named TinDog. TinDog allows the user to find other dogs & their owners nearby in the swipe left/right style made famous by Tinder.
 
-Deployment
-Deployed Website: https://rosajen27.github.io/tindog/
+## Deployment
 
-tindog
+Deployed Website: https://priyanshu1101.github.io/htmltindog/
 
-Built With
-HTML
-CSS
-Bootstrap
-Authors
-Jennifer Rosa Rosajen27
-License
-License
+![tindog](./images/Capture.jpeg)
 
-This project is licensed under the MIT License.
+## Built With
 
-Copyright (c) 2021 Jennifer Rosa
+  * HTML
+  * CSS
+  * Bootstrap
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+## Authors
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+  - **Priyanshu Bansal**
+    [priyanshu1101](https://github.com/priyanshu1101)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Acknowledgments
-The Complete 2020 Web Development Bootcamp by Angela Yu
+## Acknowledgments
+
+  * The Complete 2020 Web Development Bootcamp by Angela Yu
